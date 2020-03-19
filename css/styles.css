@@ -8,11 +8,16 @@ body{
   background: linear-gradient(#a5f0b9,#4deb31,#65ebd2,#33a1f5, #7733FF);
 
 }
-img {
+#pic1 {
  width: 50%;
  height: 50%;
  margin: 40px;
 }
+#pic2 {
+  width: 60%;
+  height: 60%;
+  margin: 40px;
+ }
 p#p1 {
   border: 50px solid white;
   border-radius: 50px; 
