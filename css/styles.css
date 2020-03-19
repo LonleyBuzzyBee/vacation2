@@ -3,3 +3,16 @@ img {
  height: 50%;
  margin: 40px;
 }
+p#p1 {
+  border: 50px solid white;
+  border-radius: 50px; 
+  background-color: fuchsia;
+}
+.card {
+  box-shadow: 5px 10px 10px;
+  background-color: #984ebf;
+  margin: 10px;
+}
+mark {
+  background-color: skyblue;
+}
