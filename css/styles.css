@@ -1,9 +1,6 @@
 body{
   background-image: url("../img/space!!.jpg");
 }
-/* .container {
-  background-image: url("../img/space!!.jpg");
-} */
 .jumbotron {
   background: linear-gradient(#a5f0b9,#4deb31,#65ebd2,#33a1f5, #7733FF);
 
@@ -28,11 +25,6 @@ p#p1 {
   height: 50%;
   float: left;
 }
-/* .testimonial {
-  width: 50%;
-  height: 50%;
-  float: right;
-} */
 .card {
   /* box-shadow: 5px 10px 10px; */
   background-color: #984ebf;
@@ -46,24 +38,3 @@ p#p1 {
 mark {
   background-color: skyblue;
 }
-/* .stinky { 
- padding-top: 10px;
-  width: 30%;
-  height: 30%;
-  float: right;
-  color: white;
-}
-.hungry {
- padding-top: 10px;
-  width: 30%;
-  height: 30%;
-  float: right;
-  color: white;
-}
-.spooky {
-  padding-top: 10px;
-  width: 30%;
-  height: 30%;
-  float:left;
-  color: white;
-} */
