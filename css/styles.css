@@ -16,3 +16,21 @@ p#p1 {
 mark {
   background-color: skyblue;
 }
+.stinky { 
+ padding-top: 10px;
+  width: 30%;
+  height: 30%;
+  float: right;
+}
+.hungry {
+ padding-top: 10px;
+  width: 30%;
+  height: 30%;
+  float: right;
+}
+.spooky {
+  padding-top: 10px;
+  width: 30%;
+  height: 30%;
+  float:left;
+}
