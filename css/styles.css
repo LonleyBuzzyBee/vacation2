@@ -23,6 +23,9 @@ p#p1 {
   border-radius: 50px; 
   background-color: fuchsia;
 }
+.panel {
+  text-align: center;
+}
 .card {
   box-shadow: 5px 10px 10px;
   background-color: #984ebf;
@@ -36,16 +39,19 @@ mark {
   width: 30%;
   height: 30%;
   float: right;
+  color: white;
 }
 .hungry {
  padding-top: 10px;
   width: 30%;
   height: 30%;
   float: right;
+  color: white;
 }
 .spooky {
   padding-top: 10px;
   width: 30%;
   height: 30%;
   float:left;
+  color: white;
 }
